@@ -1,5 +1,5 @@
 # Hi there 👋
-##🌱 I’m currently learning C#, JavaScript and SQL Server. 
+## 🌱 I’m currently learning C#, JavaScript and SQL Server. 
 <!--
 **EnocMag/EnocMag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
